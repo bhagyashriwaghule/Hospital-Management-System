@@ -1,5 +1,5 @@
 # Hospital-Management-System
-# overview :
+# Overview :
 The Java hospital management system facilitates adding, updating, and deleting patient and staff records. It utilizes object-oriented programming for modular design and JDBC for database connectivity. With intuitive interfaces, it enhances administrative efficiency, ensuring smooth operation within healthcare facilities.
 # Technologies Used :
 Java : Core programming language for development.
